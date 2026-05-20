@@ -1,11 +1,3 @@
-Great follow-up — **pre-commit hooks** are one of Git’s best quality-control features 👍
-They help catch mistakes **before bad code ever enters your repository**.
-
-Let’s walk through it clearly and practically.
-
----
-
-## 🪝 What is a pre-commit hook?
 
 A **pre-commit hook** is a script that runs **automatically before a commit is created**.
 

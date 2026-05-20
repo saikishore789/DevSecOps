@@ -1,9 +1,3 @@
-Great question — **Gitleaks + pre-commit hooks** are commonly used together to stop **secrets from ever reaching Git** 🔐
-
-Let’s make it simple and practical.
-
----
-
 ## 🚨 What is Gitleaks?
 
 **Gitleaks is a security scanning tool** that detects sensitive information in your code such as:

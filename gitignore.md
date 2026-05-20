@@ -1,9 +1,3 @@
-Great question — **`.gitignore`** is a small but very important file in Git that controls **what should NOT be tracked in your repository**.
-
-Let’s break it down simply 👇
-
----
-
 ## 🔍 What is `.gitignore`?
 
 `.gitignore` is a text file where you list:
