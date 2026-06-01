@@ -1,0 +1,12 @@
+FROM node:25
+
+WORKDIR /app
+RUN groupadd -r appuser && useradd -r -g appuser appuser
+COPY . .
+
+RUN npm install
+
+RUN USER appuser
+
+EXPOSE 3000
+CMD ["npm", "start"]
